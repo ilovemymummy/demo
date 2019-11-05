@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-welocome to the Git
-=======
-welocome to the git
->>>>>>> dev
-hello
-welcome to remote repository
+welcome to git
